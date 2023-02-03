@@ -1,16 +1,34 @@
-### Hi there 👋
+<h4>Olá, eu sou o Matheus</h4>
+<hr>
+<div>
+🎓 Estou cursando o 8 semestre de Sistemas de Informação na UNIP
+<div>
 
-<!--
-**matheusgomes2020/matheusgomes2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 <h4>Minhas Skills</h4>
 
-Here are some ideas to get you started:
+🌐 Linguagens:
+<div>
+![Kotlin]({https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white})
+<div>
+![image]({https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white})
+<div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<div>
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Ferramentas de Desenvolvimento:
+<div>
+![Android Studio]({https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white})
+
+Frameworks & Library 🔝
+![image]({https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white})
+
+💌 Redes Sociais: ⤵️
+<hr>
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
+<b>Estou estudando:</b>
+Linkedin Badge
+
+
+   
