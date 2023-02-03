@@ -26,6 +26,12 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
  <p align="left">
  <hr>
+  <p align="left">
+  💼 <strong>Aprendendo:</strong>
+</p>
+  Jetpack Compose
+ <p align="left">
+ <hr>
   💌 <strong>Redes Sociais:</strong>
 </p>
 <p align="left">
