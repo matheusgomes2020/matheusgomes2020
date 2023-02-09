@@ -30,6 +30,14 @@
   💼 <strong>Aprendendo:</strong>
 </p>
   Jetpack Compose
+  <div>
+    ROOM Database
+    <div>
+    Hilt-Dagger
+      <div>
+    MVVM
+        <div>
+    Coroutines
  <p align="left">
  <hr>
   💌 <strong>Redes Sociais:</strong>
