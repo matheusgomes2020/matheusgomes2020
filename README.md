@@ -1,6 +1,6 @@
 <h3>Olá, eu sou o Matheus</h3>
 <p align="left">
-  🎓 Estou cursando o 8 semestre de Sistemas de Informação na UNIP
+  🎓 Formado em Sistemas de Informação na UNIP
 </p>
 <hr>
 <p align="left">
