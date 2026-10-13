@@ -2,24 +2,6 @@
 <p align="left">
   🎓 Formado em Sistemas de Informação na UNIP
 </p>
-<hr>
-<p align="left">
-   <h3>🚀 <strong>Skills:</strong></h3>
-</p>
-<div>
-<p align="left">
-  🌐 <strong>Linguagens:</strong>
-</p>
-<a href="#" alt="Python">
-  <hr>
-  <p align="left">
-  💼 <strong>Ferramentas:</strong>
-</p>
-  <a href="#" alt="Vs Code">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
- <p align="left">
- <hr>
-  <p align="left">
   
  <hr>
   💌 <strong>Redes Sociais:</strong>
