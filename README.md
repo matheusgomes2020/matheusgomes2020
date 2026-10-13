@@ -10,35 +10,17 @@
 <p align="left">
   🌐 <strong>Linguagens:</strong>
 </p>
-<a href="#" alt="Java">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a href="#" alt="Kotlin">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-  <a href="#" alt="HTML">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#" alt="Python">
   <hr>
   <p align="left">
   💼 <strong>Ferramentas:</strong>
 </p>
-  <a href="#" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
   <a href="#" alt="Vs Code">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
  <p align="left">
  <hr>
   <p align="left">
-  💼 <strong>Aprendendo:</strong>
-</p>
-  Jetpack Compose
-  <div>
-    ROOM Database
-    <div>
-    Hilt-Dagger
-      <div>
-    MVVM
-        <div>
-    Coroutines
- <p align="left">
+  
  <hr>
   💌 <strong>Redes Sociais:</strong>
 </p>
